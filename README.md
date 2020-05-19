@@ -29,217 +29,85 @@ By the successful completion of this course, students will have:
 - A range of sizes of black markers (.05 micron to fine sharpie)
 - Mac with Glyphs app installed
 
-## Course Outline 
+## Semester Overview
 
 Subject to adjustment.
 
 
 |Week|Class Content|Assignment|Reading
 |----|-------------|----------|-------
-|Jan 23rd |<li>**Intro:**: Overview of syllabus, expectations & QA </li><li> **Lecture:** Introduction & Review </li><li> **Exercise:** Rapid Ideation Exercise</li> | Email Document Page link 
-- get supplies & required reading book
-- Download license & Install Glyphs 2 | Theory of Type Design: Chapters 1–4 <br>
-Counterpunch Excerpt
-|2|Art, Data, and Grids||Grid-inspired composition
-|3|Flexible Layouts||Concrete poetry composition
-|4|Glitch Art||Glitch Art-inspired composition
-|5|Movement and Animation||Mini Project Ideation
-|6|1:1s — Ideation and Planning||Mini Project Draft
-|7|Student Presentations||Final Project Ideation
-|8|1:1s - Ideation and Planning||Final Project Draft
-|9|1:1s - Troubleshooting||Final Project Progress
-|10|Student Presentations||🎉
-
-## Topic Sections
-
-## Section 0: Before the First Week
-- Make an account for the [P5.js Web Editor](https://editor.p5js.org/)
-- Join the Generative Type Slack 
-
-## Section 1: Overview and Conceptualizing Programs
-Date: June 4th, 2020
-
-Class materials: Grid paper
-
-### 6:30pm 👋 Roundtable Intros & Housekeeping
-
-### 7:00pm 👩🏻‍💻 Semester Overview
-
-### Talking to Machines 
-
--  Language as a Code System
--  _Language is Image, Paper, Code & Cloth_ by Francesca Capone excerpt
--  [First human computers](https://www.smithsonianmag.com/science-nature/history-human-computers-180972202/)
-
-### Type as Machine-Readable Data
-- Font as String
-- Font as Image
-- Font as Vector Coordinates
-
-### Thought Exercises
-- [Human Fax Machine Experiment](http://lucasihlein.net/The-Human-Fax-Machine-Experiment)
-- Describe Vera Molnar piece
-
-*~ Break ~*
-### 8:15pm 👨🏻‍💻 Technical Demo
-
-### Terminology Review
-- What is a web browser?
-- What is Javascript?
-- What is a console?
-- What is debugging?
-
-### What is a Program?
-* Primitives and Conditionals
-* Anatomy of a P5js Sketch
-* The Execution Loop
-* Reading External Data
-
-### How to Learn
-* formulating questions and finding answers.
-
-### How to Debug
-* finding errors and their causes.
-
-## ✏️ Week 1 Homework
-
-### Assignment
-* Make a Brush Tool
-
-### Readings
-
-* [A Note on the Type](Readings/A-Note-On-the_Type.pdf) by Dexter Sinister, 2010
-*  [Letter & Spirit](Readings/Letter-&-Spirit.pdf)  by Dexter Sinister, 2012
-
-### Additional Resources
-
-* [Generative Design](http://www.generative-gestaltung.de/2/): Part 2 (Shapes)
-* [Eloquent Javascript: Program Structure](https://eloquentjavascript.net/02_program_structure.html)
-
-## Section 2: Art, Data, and Grids
-Date: June 11th, 2020
-
-### 6:30pm ✏️ Discuss Homework
-
-### 7:15pm 📖 Class Reading Discussion 
-
-### 7:45pm 👩🏻‍💻 Early Computer Art & Artists: Part 1
-* MetaFont & Knuth
-* Hershey Fonts 
-* Typewriter Art
-* ASCII Art
-	* - [ASCII-art-generator.org](https://www.ascii-art-generator.org/)
-* Early Computer Artists
-	* [Hiroshi Kawano](https://www.overheadcompartment.org/the-work-of-art-in-the-age-of-programmatic-abstraction/)
-	* Ken Knowlton
-*  [First Arabic Poster](Readings/First_Arabic_Poster.png)
-
-### Fonts as Technology
-* Unicode
-* Encoding Systems
-* Information in font files
-
-*~ break ~*
-### 8:30pm 👨🏻‍💻 **Technical Demo**
-	* Different Data Inputs Review/Deeper Dive
-	* Functional Programming
-		* Organizing Code
-		* Programs within Programs
-	* Loops
-	* ASCII Art & Grids
-	* Data Structures and Grid Systems/pixels/visual representation
-		* e.g. Arrays & objects
-
-## ✏️ Week 2 Homework
-
-### Readings
-* [Hieroglyphs](Readings/Heiroglyphs.pdf) by Aaron Marcus, 1978
-* [Unimaginable Images](Readings/Unimaginable_Images.pdf) by Joseph P. Covington III, 1978
-
-### (Optional Readings)
-* [(P)(E)(R)(S)(E)(V)(E)(R)(E)](Readings/p-e-r-s-e-v-e-r-e.pdf) by Tauba Auerbach, 2017
+|1|**Intro:** Overview of syllabus, class policy, Q&A <br> **Lecture:** Introduction & Review <br> **Exercise:** Rapid Ideation Exercise | <li>Email Document Page link </li><li> Get supplies & required reading book </li><li> Download class license & Install Glyphs 2 </li> | <li>*Theory of Type Design*: Chapters 1–4 </li><li> *Counterpunch* Excerpt</li>
+|2|**Discussion:** Reading <br> **Exercise:** Carolingian calligraphy<br> **Lecture:** Letterform Digitization <br> **Demo: Overview of Glyphs App** <br> <li>Basics of plotting vector points </li><li>Uploading Sketches</li><li>Font Info Window</li><li>Export Font File</li>| <li>Upload Carolingian calligraphy practice image </li><li>Digitize test word ‘grandiose’ in Glyphs & upload PDF </li>| <li>*Theory of Type Design*: Chapters 5–8 </li>
+|3|**Discussion:** Reading <br> **Lecture:** letterform Adjustments <br> **Demo: Glyphs App Efficiency** <br> <li> Plotting Vectors Q&A </li><li>Layers</li><li>Components</li><li>Using spacing strings</li>| <li>Redraw ‘grandiose’ letters from last week + ‘t’ and space glyph </li><li> Complete homework template PDF and upload on Document Page (feel free to customize) </li>| <li>*Theory of Type Design*: Chapters 9–13 </li>
+|4|**Discussion:** Reading <br> **Review:** Digitized test words **Lecture:** Typefaces for Today <br> **Exercise:** <li>Broad Edge Nib vs Pointed Nib </li> <li> Sketching a test word using Translation/Expansion model Technique & TypeCooker recipes| <li>3 Typeface Proposal Drafts (that includes pencil or digital sketches of test words, at least ‘aeon’). </li> <li> Proposal reference: [TypeMedia 2013](http://typemedia2013.com)| <li>*Theory of Type Design*: Chapters 14–17 </li>
+|5|**Review:** Typeface Proposal Draft <br> **Lecture:** Historical Overview of Letterforms & Inspirational Resources in NYC <br> **Exercise:** Preview of Proofs & concept of spacing | <li> Finish typeface proposal w/ test word 'adhesion' </li> | <li>*Theory of Type Design*: Chapters 18–21 </li>
+|6|**Final Typeface Proposal** Guest Critique with [Juan Villanueva](http://www.juankafka.com/) | <li>Complete [Week 6 Proof](/Assignments/Week_6)</li> | <li>*Theory of Type Design*: Chapters 22–24 </li>
+|7|**Discussion:** Reading <br> **Review:** Typeface Proof | <li>Complete Week 7 Proof </li>
+|8|***Class will be held online due to COVID-19*** <br> **Review:** Typeface Proof <br> **Lecture:** Typeface Specimens | <li> Complete Week 8 Proof </li><li> Start thinking about type specimen </li>
+|N/A| Spring Break
+|9|***Study Week due to COVID-19*** <br> **Individual Office Hours** | ***Study Week due to COVID-19*** <li> Continue with refining Week 8 Proof & ideation of type specimen </li> |
+|10| **Review:** Typeface Proof | <li>Complete Week 10 Proof </li>
+|11| **Review:** Typeface Proof | <li>Complete Week 11 Proof </li>
+|12| **Review:** Typeface Proof <br> **Glyphs Demo:** Using smart lists  | <li>Complete Week 12 Proof </li> <li> Making smart list for required character set</li><li>Sketch for Type Specimen </li>
+|13| **Review:** Typeface Proof <br> **Review:** Type Specimen Sketches | <li> Complete Character Set Proof </li> <li>Typeface Specimen Draft</li>
+|14| **Guest Critique** with [Juan Villanueva](http://www.juankafka.com/) <br> | <li>Final Presentations </li> <Final Specimen>
+|15| **Final Presentation** Typeface Proof | <li> Submit final presentations </li><li> Submit images for [class gallery website](https://letterformdesign.com/) </li>
 
 
-### Additional Resources
+## Resources 
 
-* TBD
+### Recommended Books
+* Gerard Unger [*Theory of Type Design*](https://www.goodreads.com/book/show/38818935-theory-of-type-design). Nai010, 2018
+* Fred Smeijers [*Counterpunch: Making Type in the Sixteenth Century, Designing Typefaces Now*](https://www.goodreads.com/en/book/show/463387.Counterpunch). Hyphen Press, 2011.
+* Cristóbal Henestrosa, Laura Meseguer, José Scaglione. [*How to Create Typefaces: from Sketch to Screen*](https://www.goodreads.com/book/show/35438833-how-to-create-typefaces-from-sketch-to-screen?from_search=true&qid=L2yaiQAn5Z&rank=1). Tipo e, 2017.
 
-## Section 3: Transformation
-Date: June 17th, 2020
+### Glyphs App Tutorials
+* [Glyphs Essential Training](https://www.lynda.com/Glyphs-App-tutorials/Glyphs-App-Essential-Training/486041-2.html) by Charles Nix
+* [Glyphs App Tutorial Posts](https://glyphsapp.com/tutorials)
 
-### 6:30pm ✏️ Discuss Homework
+### Spacing & Kerning
+* [Adhesiontext](https://adhesiontext.com/) tool by Miguel Sousa
 
-### 7:15pm 📖 Class Reading Discussion 
+* [Text for Proofing Fonts](https://www.typography.com/blog/text-for-proofing-fonts) by Jonathan Hoefler 
+* [Spacing Tests](http://ultrasparky.org/archives/2014/03/spacing_tests.html) by Dan Rhatigan
+* [Kern King](https://pangrampangram.com/blogs/journal/kern-king-is-dead-long-live-kern-king-br-the-great-template-for-kerning-types#kernking) by Leslie Cabarga
+* [Galvanized Jets](http://galvanizedjets.com/) by Samarskaya & Partners
+* [Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs) by Andre Fuchs
 
-### 7:45pm 👩🏻‍💻 Early Computer Art & Artists: Part 2
-- Manfred Mohr
-- Vera Molnar
-- [Seattle Drift](http://www.vispo.com/animisms/SeattleDriftEnglish.html#) 
-- [Women in Concrete Poetry](https://monoskop.org/Women_in_concrete_poetry)
+### Inspirational Finds
+* [Fonts In Use](https://fontsinuse.com/)
+* [Archivio Tipograpfico](http://archiviotipografico.it/en-GB/)
+* [Typographica](https://typographica.org/): Type Reviews, Books, Commentary
+* [Alphabettes](http://www.alphabettes.org/): Commentary by Women in Type
 
-*~ break ~*
+### Variable Fonts 
+* [Variable Fonts Support](https://v-fonts.com/support/)
+* [Can I Use](https://caniuse.com/)
 
-### 8:30pm 👨🏻‍💻 Technical Demo
+### NYC Lectures, Classes & Events
+* [Type@Cooper](http://coopertype.org/)
+* [The Type Directors Club﻿](https://tdc.org/)
+* [Society of Scribes](http://societyofscribes.org/)
+* [Type Thursday](https://www.typethursday.org/)
+* [AIGA NY](https://aigany.org/)
 
-* Randomization
-* Transformations (scaling, translate)
+### Archives
+* [Herb Lubalin Study Center](http://lubalincenter.cooper.edu/)
 
+### Conferences
+* [Typographics](https://typographics.com/): NYC, USA
+* [TypeCon](https://www.typecon.com/): USA
+* [ATypI](https://www.atypi.org/): International 
 
-## ✏️ Week 3 Homework
-Make a Static Typography Piece
+### Articles & Links
+* [A Useful Guide to Bad Type](http://letterror.com/articles/bad-type.html) by Erik Van Blokland
+* [Thinking With Type](http://thinkingwithtype.com/) by Ellen Lupton
+* [History of the Western European Alphabet](http://thinkingwithtype.com/misc/Judy_Ross_Alphabet.pdf) by Judy Ross
+* [Multiscriptual Typesetting](http://www.alphabettes.org/multiscriptual-typesetting/) by Beatriz Lozano
+* [On Type Classifications](http://kupferschrift.de/cms/2012/03/on-classifications/) by Indra Kupferschmid
+* [Bézier Curves and Type Design](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/) by Fábio Duarte Martins
 
-### Readings
-* [Graphics Applications In the Environment](Readings/Graphics_Applications_In_the_Environment.pdf) by G. F. Kammerer-Luka, 1976
-* [Outer Space and Technological Progress](Readings/Outer_Space_and_Technoligical_Progress.pdf) by Roger Coqart, 1978
-
-## Section 4: Glitch Art
-Date: June 24th, 2020
-
-### 6:30pm ✏️ Discuss Homework
-
-### 7:15pm 📖 Class Reading Discussion 
-
-### 7:45pm 👩🏻‍💻 What Does Glitching Mean?
-* Glitch Screens
-* Transcribing data types to another
-* Manipulating Data
-* Glitch Art as Style & Statement
-
-*~ break ~*
-
-### 8:30pm 👨🏻‍💻 Technical Demo
-* Slit-scanning
-* breaking data down into components
-
-## ✏️ Week 4 Homework
-
-### Readings
-
-### Additional Resources
-* [Everest Pipkin's Are.na Collection on Glitch Art](https://www.are.na/everest-pipkin/teaching-glitch-art-glitch-aesthetics-tools)
-
-
-## Section 5: Movement and Animation
-Date: July 1st, 2020
-
-### 6:30pm ✏️ Discuss Homework
-
-### 7:15pm 📖 Class Reading Discussion 
-
-### 7:45pm 👩🏻‍💻 Typography in Animation 
-- Excerpt from *Visual Grammar* by Christian Leborg
-
-*~ break ~*
-### 8:30pm 👨🏻‍💻 Technical Demo
-* Flow
-* Using math, flow over time, representing movement
-* Following polyline paths
-* Mouse movements
-
-	
-## ✏️ Week 5 Homework
-### Readings: TBD
-
-### Additional Resources
-
-[The Recode Project](http://recodeproject.com/): An Active Archive of Computer Art
+## Links for Post-Class 
+* [Type Crit Crew](https://medium.com/@juan_kafka/type-crit-crew-fdd180b881c)
+* [Selling Fonts on MyFonts](https://foundrysupport.monotype.com/hc/en-us)
+* [Listing Fonts on GoogleFonts](https://github.com/google/fonts/blob/master/CONTRIBUTING.md)
