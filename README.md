@@ -74,6 +74,10 @@ Subject to adjustment.
 * [Galvanized Jets](http://galvanizedjets.com/) by Samarskaya & Partners
 * [Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs) by Andre Fuchs
 
+### Type Specimen Inspirations
+
+* [Pre-Digital Type Foundry Catalogs](https://www.notion.so/99eeab1902c04755b4be9d3c5838f94e?v=c4a2a09d539e4cf685f50bc02725d36e) by Stephen Coles
+
 ### Inspirational Finds
 * [Fonts In Use](https://fontsinuse.com/)
 * [Archivio Tipograpfico](http://archiviotipografico.it/en-GB/)
