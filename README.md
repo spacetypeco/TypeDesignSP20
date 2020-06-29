@@ -73,6 +73,7 @@ Subject to adjustment.
 * [Kern King](https://pangrampangram.com/blogs/journal/kern-king-is-dead-long-live-kern-king-br-the-great-template-for-kerning-types#kernking) by Leslie Cabarga
 * [Galvanized Jets](http://galvanizedjets.com/) by Samarskaya & Partners
 * [Kerning Pairs](https://github.com/andre-fuchs/kerning-pairs) by Andre Fuchs
+* [Micro Typography:How To Space And Kern Punctuation Marks And Other Symbols](https://www.smashingmagazine.com/2020/05/micro-typography-space-kern-punctuation-marks-symbols/) 
 
 ### Type Specimen Inspirations
 
@@ -83,6 +84,7 @@ Subject to adjustment.
 * [Archivio Tipograpfico](http://archiviotipografico.it/en-GB/)
 * [Typographica](https://typographica.org/): Type Reviews, Books, Commentary
 * [Alphabettes](http://www.alphabettes.org/): Commentary by Women in Type
+* [South Asian Book Cover Collection](https://www.flickr.com/photos/erinmclaughlin/albums/72157714893812268) by Erin McLaughlin
 
 ### Variable Fonts 
 * [Variable Fonts Support](https://v-fonts.com/support/)
@@ -110,6 +112,11 @@ Subject to adjustment.
 * [Multiscriptual Typesetting](http://www.alphabettes.org/multiscriptual-typesetting/) by Beatriz Lozano
 * [On Type Classifications](http://kupferschrift.de/cms/2012/03/on-classifications/) by Indra Kupferschmid
 * [Bézier Curves and Type Design](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/) by Fábio Duarte Martins
+
+### Resources on Punctuation
+
+* [Punctuation(1): the linguistic side](https://articles.c-a-s-t.com/punctuation-1-the-linguistic-side-9ba8eb11fbf2) by Lisa Fischbach
+* [Butterick's Practical Typography](https://practicaltypography.com/)
 
 ## Links for Post-Class 
 * [Type Crit Crew](https://medium.com/@juan_kafka/type-crit-crew-fdd180b881c)
