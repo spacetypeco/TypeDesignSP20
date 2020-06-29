@@ -112,6 +112,7 @@ Subject to adjustment.
 * [Multiscriptual Typesetting](http://www.alphabettes.org/multiscriptual-typesetting/) by Beatriz Lozano
 * [On Type Classifications](http://kupferschrift.de/cms/2012/03/on-classifications/) by Indra Kupferschmid
 * [Bézier Curves and Type Design](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/) by Fábio Duarte Martins
+* [NYT: The Difference Between Copyrights, Trademarks and Patents](https://www.nytimes.com/article/copyrights-trademarks-patents.html?referringSource=articleShare)
 
 ### Resources on Punctuation
 
